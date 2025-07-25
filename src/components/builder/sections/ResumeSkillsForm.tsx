@@ -28,6 +28,8 @@ const ResumeSkillsForm = ({ country, data, onChange }: ResumeSkillsFormProps) =>
   const handleAddSkill = () => {
     if (!newSkill.trim()) return;
     
+
+    
     let updatedData;
     switch (activeTab) {
       case "technical":
@@ -46,7 +48,7 @@ const ResumeSkillsForm = ({ country, data, onChange }: ResumeSkillsFormProps) =>
         updatedData = { technical: technicalSkills, soft: softSkills, languages: newLanguages };
         break;
     }
-    
+
     
     if (updatedData) onChange(updatedData);
     setNewSkill("");

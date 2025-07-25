@@ -75,6 +75,7 @@ const ResumeEducationForm = ({ country, data, onChange }: ResumeEducationFormPro
     setEducationList(updated);
     onChange(updated);
   };
+  
 
   // Country-specific field tips
   const getCountryTip = () => {

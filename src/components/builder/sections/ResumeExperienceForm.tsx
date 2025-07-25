@@ -160,6 +160,7 @@ const ResumeExperienceForm = ({ country, data, onChange }: ResumeExperienceFormP
                 placeholder="e.g., Acme Corporation"
               />
             </div>
+            
 
             <div className="space-y-2">
               <Label htmlFor={`position-${experience.id}`}>Position</Label>

@@ -11,6 +11,7 @@ import {
 } from "@/components/ui/tooltip";
 
 
+
 // Resume section types
 export type SectionType = 
   | "profile" 

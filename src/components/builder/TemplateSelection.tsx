@@ -42,6 +42,7 @@ const TemplateSelection = ({
       name: "Canada", 
       description: "1-page recruiter-style resume with job keywords" 
     },
+    
     { 
       code: "germany", 
       name: "Germany", 

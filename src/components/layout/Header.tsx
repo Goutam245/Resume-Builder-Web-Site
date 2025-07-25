@@ -43,7 +43,7 @@ const Header = ({ toggleTheme, isDarkMode }: HeaderProps) => {
         {/* Logo */}
         <Link to="/" className="flex items-center gap-2">
           <img src={logo} alt="GlobeCraft Resume" className="h-10 w-auto" />
-          <span className="font-semibold text-lg hidden sm:block">GlobeCraft</span>
+          <span className="font-semibold text-lg hidden sm:block">Global Craft</span>
         </Link>
 
         {/* Desktop Navigation */}

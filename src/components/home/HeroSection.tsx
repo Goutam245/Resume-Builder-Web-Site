@@ -30,6 +30,7 @@ const HeroSection = () => {
                 </Link>
               </Button>
               
+              
               <Button variant="germany" size="pill" asChild className="animate-slide-in-bottom" style={{ animationDelay: '0.2s' }}>
                 <Link to="/templates/germany" className="flex items-center gap-2">
                   <CountryIcon country="germany" />

@@ -47,6 +47,7 @@ const ResumeSkillsForm = ({ country, data, onChange }: ResumeSkillsFormProps) =>
         break;
     }
     
+    
     if (updatedData) onChange(updatedData);
     setNewSkill("");
   };

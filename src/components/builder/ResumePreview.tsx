@@ -9,6 +9,7 @@ interface ResumePreviewProps {
   formData: any;
 }
 
+
 const ResumePreview = ({ country, templateId, formData }: ResumePreviewProps) => {
   const [preview, setPreview] = useState<JSX.Element | null>(null);
 

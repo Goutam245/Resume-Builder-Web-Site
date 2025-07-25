@@ -9,7 +9,7 @@ const TestimonialsSection = () => {
       role: "Software Engineer",
       company: "Microsoft Canada",
       country: "🇨🇦",
-      image: "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=150&h=150&fit=crop&crop=face",
+      image: "https://images.unsplash.com/photo-1566753323558-f4e0952af115?q=80&w=1021&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       content: "GlobeCraft helped me land my dream job at Microsoft! The Canadian template was exactly what I needed, and the ATS optimization worked perfectly.",
       rating: 5
     },
@@ -18,7 +18,7 @@ const TestimonialsSection = () => {
       role: "Data Scientist",
       company: "SAP Germany",
       country: "🇩🇪",
-      image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&h=150&fit=crop&crop=face",
+      image: "https://images.unsplash.com/photo-1615109398623-88346a601842?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       content: "The German Lebenslauf format was spot-on. I received 3 job offers within 2 weeks of applying with my new resume.",
       rating: 5
     },

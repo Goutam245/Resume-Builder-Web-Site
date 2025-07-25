@@ -4,7 +4,6 @@ A professional, minimal, and high-performance resume builder application — bui
 
 ---
 
-
 ## ✨ Key Features
 
 - 🧑‍💼 **Dynamic Resume Builder:** Easily add personal details, work history, education, and skills.
@@ -68,9 +67,13 @@ This project was conceptualized, designed, and developed by **Goutam Roy** throu
 
 ---
 
+
 ## 👤 Author
 
 **Goutam Roy**  
 Software Developer & UX Thinker  
 Passionate about building clean, efficient, and human-centered digital tools.
+
+- 🔗 **Portfolio:** [https://goutam-roy-portfolio.vercel.app/](https://goutam-roy-portfolio.vercel.app/)  
+- 🐙 **GitHub:** [https://github.com/Goutam245](https://github.com/Goutam245)
 

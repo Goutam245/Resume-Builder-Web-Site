@@ -8,7 +8,7 @@ export default {
 		"./app/**/*.{ts,tsx}",
 		"./src/**/*.{ts,tsx}",
 	],
-	
+
 	prefix: "",
 	theme: {
 		container: {
@@ -17,6 +17,7 @@ export default {
 			screens: {
 				'2xl': '1400px'
 			}
+			
 		},
 		extend: {
 			fontFamily: {

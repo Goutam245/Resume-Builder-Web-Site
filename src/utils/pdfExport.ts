@@ -48,6 +48,7 @@ export const exportResumeToPDF = async (
       letterRendering: true
     },
     
+
     jsPDF: { 
       unit: 'mm', 
       format: pageSize, 

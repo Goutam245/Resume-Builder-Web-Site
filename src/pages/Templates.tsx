@@ -28,6 +28,7 @@ const Templates = () => {
     { code: "portugal" as const, name: "Portugal/EU", description: "Europass layout compliance" },
   ];
 
+  
   const templates: Record<CountryType, Template[]> = {
     canada: [
       {

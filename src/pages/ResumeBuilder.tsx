@@ -31,6 +31,7 @@ const ResumeBuilder = () => {
       soft: [],
       languages: []
     }
+    
   });
   const [sections, setSections] = useState<any[]>([]);
   const [isDirty, setIsDirty] = useState(false);

@@ -56,6 +56,7 @@ export const exportResumeToPDF = async (
     pagebreak: { mode: ['avoid-all', 'css', 'legacy'] }
   };
 
+  
   try {
     // Create PDF
     const pdf = await html2pdf().from(clone).set(pdfOptions).save();

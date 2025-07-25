@@ -227,6 +227,7 @@ const Contact = () => {
                       rows={6}
                       required
                     />
+                    
                   </div>
 
                   <Button 

@@ -8,6 +8,7 @@ import { CheckIcon, XIcon, StarIcon } from "lucide-react";
 const Pricing = () => {
   const [isAnnual, setIsAnnual] = useState(false);
 
+  
   const plans = [
     {
       name: "Free",

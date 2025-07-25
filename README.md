@@ -4,6 +4,7 @@ A professional, minimal, and high-performance resume builder application — bui
 
 ---
 
+
 ## ✨ Key Features
 
 - 🧑‍💼 **Dynamic Resume Builder:** Easily add personal details, work history, education, and skills.

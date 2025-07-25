@@ -98,7 +98,7 @@ const Contact = () => {
                 </CardDescription>
               </CardHeader>
               <CardContent>
-                <p className="font-medium">support@globecrftresume.com</p>
+                <p className="font-medium">goutam.roy.421917@gmail.com</p>
                 <p className="text-sm text-muted-foreground">Response within 24 hours</p>
               </CardContent>
             </Card>
@@ -130,7 +130,7 @@ const Contact = () => {
                 </CardDescription>
               </CardHeader>
               <CardContent>
-                <p className="font-medium">+1 (555) 123-4567</p>
+                <p className="font-medium">+880 174 759 3452</p>
                 <p className="text-sm text-muted-foreground">Premium users only</p>
               </CardContent>
             </Card>
@@ -142,11 +142,11 @@ const Contact = () => {
                   Office Location
                 </CardTitle>
                 <CardDescription>
-                  Visit us at our headquarters
+                  Visit Gazipur-Bangladesh at our headquarters
                 </CardDescription>
               </CardHeader>
               <CardContent>
-                <p className="font-medium">Toronto, Canada</p>
+                <p className="font-medium">Dhaka, Bangladesh</p>
                 <p className="text-sm text-muted-foreground">By appointment only</p>
               </CardContent>
             </Card>

@@ -27,7 +27,7 @@ const TestimonialsSection = () => {
       role: "Marketing Manager",
       company: "Atlassian Australia",
       country: "🇦🇺",
-      image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150&h=150&fit=crop&crop=face",
+      image: "https://media.istockphoto.com/id/936335126/photo/smiling-businessman.jpg?s=612x612&w=0&k=20&c=yUElz9EgDsIWs18J_tfA6ac2_zgmoQJPTD5hp03kzrg=",
       content: "The STAR method formatting helped me showcase my achievements perfectly. Highly recommend for anyone applying to Australian companies!",
       rating: 5
     }

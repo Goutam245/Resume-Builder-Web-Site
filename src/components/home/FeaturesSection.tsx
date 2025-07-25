@@ -48,7 +48,6 @@ const FeaturesSection = () => {
             Everything you need to create professional, country-specific resumes that get you noticed by international employers.
           </p>
         </div>
-
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 lg:gap-8">
           {features.map((feature, index) => (
             <div 

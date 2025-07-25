@@ -10,6 +10,7 @@ interface HeaderProps {
   isDarkMode: boolean;
 }
 
+
 const Header = ({ toggleTheme, isDarkMode }: HeaderProps) => {
   const isMobile = useIsMobile();
   const [isMenuOpen, setIsMenuOpen] = useState(false);

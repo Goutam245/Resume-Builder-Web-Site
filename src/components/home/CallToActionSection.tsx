@@ -19,6 +19,7 @@ const CallToActionSection = () => {
             <span className="text-white/90">Starts Here</span>
           </h2>
           
+          
           <p className="text-lg md:text-xl text-white/80 max-w-2xl mx-auto leading-relaxed mb-10">
             Create your professional resume in minutes and open doors to international opportunities worldwide.
           </p>

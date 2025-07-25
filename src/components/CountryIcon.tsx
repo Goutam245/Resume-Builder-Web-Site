@@ -10,6 +10,7 @@ interface CountryIconProps {
   className?: string;
 }
 
+
 const CountryIcon = ({ country, size = "md", className }: CountryIconProps) => {
   const sizeClasses = {
     sm: "h-4 w-4",

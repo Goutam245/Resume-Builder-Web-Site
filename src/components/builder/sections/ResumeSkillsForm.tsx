@@ -30,6 +30,7 @@ const ResumeSkillsForm = ({ country, data, onChange }: ResumeSkillsFormProps) =>
     
 
     
+
     let updatedData;
     switch (activeTab) {
       case "technical":
